@@ -107,6 +107,7 @@ class Main:
             exit()
         else:
             exit()
+            
  def ph():
     user=[]
     os.system('clear')
